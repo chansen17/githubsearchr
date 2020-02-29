@@ -1,0 +1,15 @@
+#profile {
+    margin: 0 auto;
+    max-width: 350px;
+}
+.card {
+    border-radius: 15px;
+}
+img {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    width: auto;
+    height: 350px;
+}
+
+/*# sourceMappingURL=/app.ae05fb60.css.map */
